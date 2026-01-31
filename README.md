@@ -33,12 +33,13 @@ customer-churn-end-to-end/
 git clone https://github.com/05072007/customer-churn-end-to-end.git
 cd customer-churn-end-to-end
 
+```
 
 ## Author
 
-*Abhinay Polisetty*  
+**Abhinay Polisetty**  
 B.Tech CSE/IT Student  
 Aspiring Data Scientist | Machine Learning Enthusiast  
+India  
 
-India
 GitHub: https://github.com/05072007
